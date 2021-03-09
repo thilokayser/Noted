@@ -2,5 +2,3 @@
   
   
   
- ## Editors 
-  - http://brackets.io/

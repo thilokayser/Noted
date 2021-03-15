@@ -9,3 +9,6 @@
 
 ## Misc Tutorials
 - https://www.sharkandpalm.com/design-tutorials/best-export-settings-for-instagram-lightroom-2020-photoshop-tutorial
+
+## Software
+- https://fujifilm-x.com/de-de/support/download/software/x-raw-studio/
